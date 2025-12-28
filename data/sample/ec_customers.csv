@@ -1,0 +1,6 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,CITY,STATE,SIGNUP_DATE
+1,Ava,Patel,ava.patel@email.com,Stamford,CT,2024-01-15
+2,Noah,Kim,noah.kim@email.com,Hartford,CT,2024-02-10
+3,Mia,Garcia,mia.garcia@email.com,Boston,MA,2024-03-05
+4,Liam,Singh,liam.singh@email.com,Newark,NJ,2024-03-22
+5,Sophia,Johnson,sophia.j@email.com,New York,NY,2024-04-11
