@@ -34,7 +34,7 @@ Used Snowflake for the sample ecommerce datasets (customers, orders, products), 
 6. Published the Sigma workbook and generated a share link.
 
 ## Screenshot
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/Dashboard_Overview.png)
 
 ## Tech Stack
 - Sigma Computing
